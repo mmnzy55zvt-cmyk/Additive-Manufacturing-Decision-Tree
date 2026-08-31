@@ -4,20 +4,26 @@ An industrial decision-tree framework designed to classify part designs and manu
 
 > 📖 **Theoretical Foundation:** This classification framework is based on the concepts, arguments, and conclusions developed in the published book: **[Hybrid Additive Manufacturing Debate](https://doi.org/10.31224/7951)**.
 
+
 ## 📊 The Framework Flowchart
-![Additive-Manufacturing-Decision-Tree](My-First-Board-3.png)
+![Additive-Manufacturing-Decision-Tree](My-Second-Board.png)
 
 ## 🔍 How it Works
 
-The framework operates across two distinct classification boundaries derived from the book's dual-boundary system:
+It relies on twin-boundary framework for additive manufacturing (AM), given in the aforementioned book. It has the following two boundaries:
 
-### 1. Boundary 1 (B1): Part Design Complexity
-This section filters whether a part qualifies as a **Simple Design**, a **Complex Design**, or if **Additive Manufacturing (AM) is not required** based on:
-* **Overhangs** and the necessity of support structures.
-* **Microfeatures** and their relation to AM process resolution.
-* **Sustainability and Cost-Effectiveness** compared to conventional manufacturing.
+### Boundary 1 (B1):
+_A complex shape is preferred. A shape is complex if it has at least one microfeature and an overhang_.
+### Boundary 2 (B2): 
+ _Pre-processing, interlayer processing, and post-processing are not meant to change size and shape. If they change, the resulting process is hybrid AM_.
+ 
 
-### 2. Boundary 2 (B2): Manufacturing Strategy (Pure vs. Hybrid AM)
+## 🔍 Explanation of Steps given in Flowchart
+
+* **Step 7** A complex shape is preferred in AM only when it is not sustainable and cost-effective to be made in conventional manufacturing.
+* **Step **
+
+### 2. B2: Manufacturing Strategy (Pure vs. Hybrid AM)
 Once AM is deemed necessary, this section classifies the production method into **Pure AM** or **Hybrid AM** based on:
 * **Substrate removal** requirements.
 * **Interlayer processing** and its effect on part size/shape.
