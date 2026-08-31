@@ -18,7 +18,7 @@ _A complex shape is preferred. A shape is complex if it has at least one microfe
  _Pre-processing, interlayer processing, and post-processing are not meant to change size and shape. If they change, the resulting process is hybrid AM_.
  
 
-## 🔍 Explanation of Steps given in Flowchart
+## 🔍 Explanation of Reasons given in Flowchart
 
 * **Reason 7** A complex shape is preferred in AM only when it is not sustainable and cost-effective to be made in conventional manufacturing.
 * **Step **
@@ -35,3 +35,8 @@ Use this decision tree during the early stages of **Design for Additive Manufact
 If you use this framework or flowchart in your research, please reference the original text:
 * **Book:** *Hybrid Additive Manufacturing Debate* 
 * **Link:** [Access the publication here](https://doi.org/10.31224/7951)
+
+## ⚖️ License
+The documentation and flowchart logic in this repository are licensed under the **MIT License** (for software implementations) and **Creative Commons Attribution 4.0 International (CC BY 4.0)** (for text and media). 
+
+You are free to build software based on this framework, provided that proper attribution to the original author and the book *Hybrid Additive Manufacturing Debate* is maintained.
