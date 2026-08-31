@@ -20,8 +20,8 @@ _A complex shape is preferred. A shape is complex if it has at least one microfe
 
 ## 🔍 Explanation of Reasons given in Flowchart
 
-* **Reason 7** A complex shape is preferred in AM only when it is not sustainable and cost-effective to be made in conventional manufacturing.
-* **Step **
+* **Reason 7:** A complex shape is preferred in AM only when it is not sustainable and cost-effective to be made in conventional manufacturing.
+* **Reason 8:**
 
 ### 2. B2: Manufacturing Strategy (Pure vs. Hybrid AM)
 Once AM is deemed necessary, this section classifies the production method into **Pure AM** or **Hybrid AM** based on:
