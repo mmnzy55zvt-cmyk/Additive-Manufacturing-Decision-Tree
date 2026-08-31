@@ -21,13 +21,9 @@ _A complex shape is preferred. A shape is complex if it has at least one microfe
 ## 🔍 Explanation of Reasons given in Flowchart
 
 * **Reason 7:** A complex shape is preferred in AM only when it is not sustainable and cost-effective to be made in conventional manufacturing.
-* **Reason 8:**
-
-### 2. B2: Manufacturing Strategy (Pure vs. Hybrid AM)
-Once AM is deemed necessary, this section classifies the production method into **Pure AM** or **Hybrid AM** based on:
-* **Substrate removal** requirements.
-* **Interlayer processing** and its effect on part size/shape.
-* **Post-processing** impacts and whether these steps are driven by strategy or AM limitations.
+* **Reason 8:** If a substrate is not separated from a part, it means the substrate is a component of the final part. It means AM is used to modify a pre-processed substrate, which is hybrid AM.
+* **Reason 11:** If post-processing is used as a strategy, it is pure AM. For example, if it is used to decrease the size to eliminate surface roughness, for which material allowance is given, it is pure AM.
+* **Reason 13:** For example, if post-processing is used to remove material because a shape could not be formed by AM, it is hybrid AM.
 
 ## 🚀 Usage & Citation
 Use this decision tree during the early stages of **Design for Additive Manufacturing (DfAM)** to evaluate production feasibility and optimize manufacturing workflows.
