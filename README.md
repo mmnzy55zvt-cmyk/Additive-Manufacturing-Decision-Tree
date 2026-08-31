@@ -5,7 +5,7 @@ An industrial decision-tree framework designed to classify part designs and manu
 > 📖 **Theoretical Foundation:** This classification framework is based on the concepts, arguments, and conclusions developed in the published book: **[Hybrid Additive Manufacturing Debate](https://doi.org/10.31224/7951)**.
 
 ## 📊 The Framework Flowchart
-![Additive-Manufacturing-Decision-Tree](My First Board-3.png)
+![Additive-Manufacturing-Decision-Tree](My-First-Board-3.png)
 
 ## 🔍 How it Works
 
